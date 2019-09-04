@@ -154,7 +154,7 @@ body {
   background: #f5f7f9;
   color: #555;
   font-family: 'Noto Serif SC', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 16px;
+  font-size: 1em;
   line-height: 2;
 }
 @media (max-width: 991px) {
@@ -408,7 +408,7 @@ pre,
 }
 pre,
 code {
-  font-family: consolas, Menlo, 'Noto Serif SC', "PingFang SC", "Microsoft YaHei", sans-serif, monospace;
+  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   overflow-wrap: break-word;
@@ -1662,7 +1662,7 @@ article:last-child .post-eof {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #eea3b4;
+  background: #ffdd9d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;

@@ -298,11 +298,7 @@
           </div>
           
     
-    
-  <div class="comments" id="comments">
-    <div id="lv-container" data-id="city" data-uid="MTAyMC8yNzk1OC80NTM1"></div>
-  </div>
-  
+    <div class="comments" id="gitalk-container"></div>
   
 
         </div>
@@ -475,18 +471,23 @@
 
   
 
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
 <script>
-  window.livereOptions = {
-    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
-  };
-  (function(d, s) {
-    var j, e = d.getElementsByTagName(s)[0];
-    if (typeof LivereTower === 'function') { return; }
-    j = d.createElement(s);
-    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-    j.async = true;
-    e.parentNode.insertBefore(j, e);
-  })(document, 'script');
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID: 'f48153a5077fe9da2e85',
+      clientSecret: 'b6acafe5811845b3c959c8bacfe55a1d3ec86784',
+      repo: 'yeahwu.github.io',
+      owner: '13328328',
+      admin: ['yeahwu'],
+      id: 'a676607444a8bc8b150c9a3aff884e61',
+        language: 'zh-CN',
+      
+      distractionFreeMode: 'true'
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
 </script>
 
 </body>

@@ -36,8 +36,14 @@
     </summary>
     
     
+      <category term="前端 - hexo" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF-hexo/"/>
     
-      <category term="hexo next" scheme="http://yoursite.com/tags/hexo-next/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="next" scheme="http://yoursite.com/tags/next/"/>
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
     
   </entry>
   

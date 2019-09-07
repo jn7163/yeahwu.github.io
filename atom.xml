@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-07T07:31:57.075Z</updated>
+  <updated>2019-09-07T07:43:14.304Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/09/02/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
     <id>http://yoursite.com/2019/09/02/本博客搭建过程/</id>
     <published>2019-09-02T14:53:52.000Z</published>
-    <updated>2019-09-07T07:31:57.075Z</updated>
+    <updated>2019-09-07T07:43:14.304Z</updated>
     
     <content type="html"><![CDATA[<h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>理由：其实就想找一个可以胡言乱语，没审查，没敏感词的地方。</p><p>本博基于<u>ubuntu18.04+git v2.17.1+NodeJS v8.10.0+hexo-cli: 2.0.0</u> 不同平台和版本实际操作可能略不同。</p><h4 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h4><h5 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h5><p><code>sudo apt install git</code></p><h5 id="安装npm"><a href="#安装npm" class="headerlink" title="安装npm"></a>安装npm</h5><p><code>sudo apt install npm</code></p><h5 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h5><p><code>sudo apt install node.js</code></p><a id="more"></a><h5 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h5><p>1：安装hexo</p><p><code>sudo npm install -g hexo</code></p><p>2：执行init命令初始化hexo,生成blog文件，就是你的博客根目录，所有的操作都在里面进行。</p><p><code>hexo init blog</code></p><p>3：生成静态网页</p><p><code>cd blog</code><br><code>hexo g</code></p><p>4：启动本地服务，进行文章预览调试</p><p><code>hexo server</code></p><p>浏览器输入 <u><a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a></u></p><h4 id="配置GitHub"><a href="#配置GitHub" class="headerlink" title="配置GitHub"></a>配置GitHub</h4><p>1：建立Repository</p><p>2：建立与你用户名对应的仓库，仓库名必须为【yourname.github.io】，固定写法</p><p>3：建立关联 <code>vi /users/blog/_config.yml</code></p><p>翻到最下面，改成：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy: </span><br><span class="line">    type: git </span><br><span class="line">    repository: https://github.com/yourname/yourname.github.io.git </span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure><p>4：执行命令：<code>npm install --save hexo-deployer-git</code></p><p>5：然后，执行配置命令：<code>hexo deploy</code><br>在浏览器中输入 <u><a href="http://yourname.github.io/" target="_blank" rel="noopener">http://yourname.github.io/</a></u></p><p>6：每次部署命令:</p><p><code>cd blog</code></p><p><code>hexo g -d</code></p><h4 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h4><p><code>hexo new&quot;postname&quot;</code> 新建文章</p><p><code>hexo new page&quot;pagename&quot;</code> 新建页面</p><p><code>hexo clean</code> 清理缓存</p><p><code>hexo generate</code> 生成静态页面</p><p><code>hexo server</code> 开启预览访问端口</p><p><code>hexo deploy</code> 将.deploy目录部署到GitHub</p><p>博客文章在 <u>/blog/source/_posts</u> 文章支持Markdown语法。如果想修改头像可以直接在主题的 <u>_config.yml</u> 文件里面修改，友情链接，之类的都在这里。</p><p>上面的是Linux搭建方法，相信大家用Windows的比较多。推荐朋友的<a href="https://blog.cat73.org/20160608/2016060801.github-hexo/" target="_blank" rel="noopener">Windows搭建教程</a></p>]]></content>
     

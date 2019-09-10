@@ -38,9 +38,9 @@
       <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
     
     
-      <category term="next" scheme="http://yoursite.com/tags/next/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="next" scheme="http://yoursite.com/tags/next/"/>
     
   </entry>
   
@@ -66,11 +66,11 @@
       <category term="Linux - git - ssh" scheme="http://yoursite.com/categories/Linux-git-ssh/"/>
     
     
-      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
-    
       <category term="ssh" scheme="http://yoursite.com/tags/ssh/"/>
     
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
     
   </entry>
   
@@ -97,9 +97,9 @@
       <category term="hexo - gulp" scheme="http://yoursite.com/categories/hexo-gulp/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
       <category term="gulp" scheme="http://yoursite.com/tags/gulp/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
@@ -125,9 +125,9 @@
       <category term="前端 - hexo" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF-hexo/"/>
     
     
-      <category term="next" scheme="http://yoursite.com/tags/next/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="next" scheme="http://yoursite.com/tags/next/"/>
     
       <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
     

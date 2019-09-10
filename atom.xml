@@ -97,9 +97,9 @@
       <category term="hexo - gulp" scheme="http://yoursite.com/categories/hexo-gulp/"/>
     
     
-      <category term="gulp" scheme="http://yoursite.com/tags/gulp/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="gulp" scheme="http://yoursite.com/tags/gulp/"/>
     
   </entry>
   

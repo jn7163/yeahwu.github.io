@@ -47,11 +47,11 @@
       
         <tags>
             
+            <tag> linux </tag>
+            
             <tag> ssh </tag>
             
             <tag> git </tag>
-            
-            <tag> linux </tag>
             
         </tags>
       
@@ -103,11 +103,11 @@
       
         <tags>
             
-            <tag> linux </tag>
-            
             <tag> hexo </tag>
             
             <tag> next </tag>
+            
+            <tag> linux </tag>
             
         </tags>
       

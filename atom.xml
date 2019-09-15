@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.12ab.cf/"/>
-  <updated>2019-09-14T07:45:00.830Z</updated>
+  <updated>2019-09-15T13:22:38.600Z</updated>
   <id>https://www.12ab.cf/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub Pages上的301重定向</title>
+    <link href="https://www.12ab.cf/posts/8c0a6bf2.html"/>
+    <id>https://www.12ab.cf/posts/8c0a6bf2.html</id>
+    <published>2019-09-15T13:22:38.000Z</published>
+    <updated>2019-09-15T13:22:38.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录 GitHub Pages 上301重定向踩过的坑。</p><p>其实俺的要求很简单，12ab.cf 能定向跳转到 <a href="http://www.12ab.cf">www.12ab.cf</a> .</p><p>本来是 CNAME 解析到 github.io ,一切都是那么顺利，新的域名也能打开，解析速度俺也能接受。</p><p>想想，好歹做个A记录吧，于是 prefix 留空， GitHub IP 填上，确定。显示错误 usename 不能留空，能理解，能理解，填上 @ 继续，还是显示错误，能理解，每个 DNS 网站的表达方式不同嘛。</p><a id="more"></a><p>继续，填上 * 小星星一颗，错误。可能是俺的表达方式太害羞了，于是直白一点, 填上 NOPREFIX ，结果是接受了。兴冲冲地去打开 12ab.cf 检验一下,打不开，也不能跳转。</p><p>于是俺迷茫了！</p><p>是不是 GitHub Pages 不能支持301跳转？</p><p>要不干脆整两个仓库，直接写个js， 404.html 跳转？</p><p>是不是 freenom 不支持 A 记录跳转？换 CNAME 记录试试？</p><p>要不要换个DNS解析网站？</p><p>要不干脆整个小VPS？</p><p>搭上梯子（还好这门手艺没落下）打开 freenom ，没道理前缀不能留空呀？于是，小手一抖填上一个点 . 选择 A 记录，填上 GitHub 的 IP ，确定，退出。<br>打开浏览器，站长工具 http 状态查询，返回码301，居然就这样跳转了。</p><p>总结一下，GitHub Pages 是支持301重定向的，但是仅限单个域名，如果换域名的话还是比较麻烦的! 虽然现在也支持了Let’s Encrypt 加密，但是速度还是不适合建站。</p><p>freenom 的 DNS 解析，主要是还没找到一个国外合适的 DNS 解析，国内的暂不考虑，再就是,又不是不能用！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;记录 GitHub Pages 上301重定向踩过的坑。&lt;/p&gt;
+&lt;p&gt;其实俺的要求很简单，12ab.cf 能定向跳转到 &lt;a href=&quot;http://www.12ab.cf&quot;&gt;www.12ab.cf&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;本来是 CNAME 解析到 github.io ,一切都是那么顺利，新的域名也能打开，解析速度俺也能接受。&lt;/p&gt;
+&lt;p&gt;想想，好歹做个A记录吧，于是 prefix 留空， GitHub IP 填上，确定。显示错误 usename 不能留空，能理解，能理解，填上 @ 继续，还是显示错误，能理解，每个 DNS 网站的表达方式不同嘛。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="git" scheme="https://www.12ab.cf/categories/git/"/>
+    
+    
+      <category term="github pages" scheme="https://www.12ab.cf/tags/github-pages/"/>
+    
+      <category term="dns" scheme="https://www.12ab.cf/tags/dns/"/>
+    
+      <category term="水" scheme="https://www.12ab.cf/tags/%E6%B0%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>幸存者偏见，附巴菲特著名演讲</title>
@@ -128,9 +158,9 @@
       <category term="hexo" scheme="https://www.12ab.cf/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
-    
       <category term="gulp" scheme="https://www.12ab.cf/tags/gulp/"/>
+    
+      <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
     
   </entry>
   

@@ -97,11 +97,11 @@
       <category term="git" scheme="https://www.12ab.cf/categories/git/"/>
     
     
+      <category term="linux" scheme="https://www.12ab.cf/tags/linux/"/>
+    
       <category term="ssh" scheme="https://www.12ab.cf/tags/ssh/"/>
     
       <category term="git" scheme="https://www.12ab.cf/tags/git/"/>
-    
-      <category term="linux" scheme="https://www.12ab.cf/tags/linux/"/>
     
   </entry>
   
@@ -156,11 +156,11 @@
       <category term="hexo" scheme="https://www.12ab.cf/categories/hexo/"/>
     
     
-      <category term="linux" scheme="https://www.12ab.cf/tags/linux/"/>
-    
       <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
     
       <category term="next" scheme="https://www.12ab.cf/tags/next/"/>
+    
+      <category term="linux" scheme="https://www.12ab.cf/tags/linux/"/>
     
   </entry>
   

@@ -96,9 +96,9 @@
       <category term="hexo" scheme="https://www.12ab.cf/categories/hexo/"/>
     
     
-      <category term="next" scheme="https://www.12ab.cf/tags/next/"/>
-    
       <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
+    
+      <category term="next" scheme="https://www.12ab.cf/tags/next/"/>
     
   </entry>
   
@@ -155,9 +155,9 @@
       <category term="hexo" scheme="https://www.12ab.cf/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
-    
       <category term="gulp" scheme="https://www.12ab.cf/tags/gulp/"/>
+    
+      <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
     
   </entry>
   
@@ -183,11 +183,11 @@
       <category term="hexo" scheme="https://www.12ab.cf/categories/hexo/"/>
     
     
-      <category term="next" scheme="https://www.12ab.cf/tags/next/"/>
-    
       <category term="hexo" scheme="https://www.12ab.cf/tags/hexo/"/>
     
       <category term="linux" scheme="https://www.12ab.cf/tags/linux/"/>
+    
+      <category term="next" scheme="https://www.12ab.cf/tags/next/"/>
     
   </entry>
   

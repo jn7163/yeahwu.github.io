@@ -13,16 +13,16 @@
       
       <categories>
           
-          <category> 洗脑 </category>
-          
-          <category> 爱国主义 </category>
+          <category> 思维提升 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 思维提升 </tag>
+            <tag> 洗脑 </tag>
+            
+            <tag> 爱国主义 </tag>
             
         </tags>
       
@@ -159,9 +159,9 @@
       
         <tags>
             
-            <tag> gulp </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> gulp </tag>
             
         </tags>
       
@@ -186,11 +186,11 @@
       
         <tags>
             
+            <tag> linux </tag>
+            
             <tag> hexo </tag>
             
             <tag> next </tag>
-            
-            <tag> linux </tag>
             
         </tags>
       

@@ -298,9 +298,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> gulp </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
@@ -325,11 +325,11 @@
       
         <tags>
             
+            <tag> linux </tag>
+            
             <tag> hexo </tag>
             
             <tag> next </tag>
-            
-            <tag> linux </tag>
             
         </tags>
       

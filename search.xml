@@ -298,11 +298,11 @@
       
         <tags>
             
-            <tag> linux </tag>
-            
             <tag> ssh </tag>
             
             <tag> git </tag>
+            
+            <tag> linux </tag>
             
         </tags>
       
@@ -327,9 +327,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> gulp </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
@@ -356,9 +356,9 @@
             
             <tag> hexo </tag>
             
-            <tag> next </tag>
-            
             <tag> linux </tag>
+            
+            <tag> next </tag>
             
         </tags>
       

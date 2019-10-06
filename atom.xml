@@ -290,9 +290,9 @@
       <category term="hexo" scheme="https://www.yeahwu.com/categories/hexo/"/>
     
     
-      <category term="next" scheme="https://www.yeahwu.com/tags/next/"/>
-    
       <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
+    
+      <category term="next" scheme="https://www.yeahwu.com/tags/next/"/>
     
   </entry>
   
@@ -318,11 +318,11 @@
       <category term="git" scheme="https://www.yeahwu.com/categories/git/"/>
     
     
+      <category term="linux" scheme="https://www.yeahwu.com/tags/linux/"/>
+    
       <category term="ssh" scheme="https://www.yeahwu.com/tags/ssh/"/>
     
       <category term="git" scheme="https://www.yeahwu.com/tags/git/"/>
-    
-      <category term="linux" scheme="https://www.yeahwu.com/tags/linux/"/>
     
   </entry>
   
@@ -349,9 +349,9 @@
       <category term="hexo" scheme="https://www.yeahwu.com/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
-    
       <category term="gulp" scheme="https://www.yeahwu.com/tags/gulp/"/>
+    
+      <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
     
   </entry>
   
@@ -377,11 +377,11 @@
       <category term="hexo" scheme="https://www.yeahwu.com/categories/hexo/"/>
     
     
-      <category term="linux" scheme="https://www.yeahwu.com/tags/linux/"/>
+      <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
     
       <category term="next" scheme="https://www.yeahwu.com/tags/next/"/>
     
-      <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
+      <category term="linux" scheme="https://www.yeahwu.com/tags/linux/"/>
     
   </entry>
   

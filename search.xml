@@ -750,9 +750,9 @@
         <category>git</category>
       </categories>
       <tags>
+        <tag>linux</tag>
         <tag>ssh</tag>
         <tag>git</tag>
-        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
@@ -847,9 +847,9 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>linux</tag>
         <tag>hexo</tag>
         <tag>next</tag>
+        <tag>linux</tag>
       </tags>
   </entry>
 </search>

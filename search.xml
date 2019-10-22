@@ -57,7 +57,7 @@
 <pre><code>&lt;p&gt;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/p&gt;</code></pre><p>文章开头空格两种方法，输入法全角敲两下 space 键，或者文章前输入<code>&amp;emsp;&amp;emsp;</code> 例：</p>
 <pre><code>&lt;p&gt;&amp;emsp;&amp;emsp;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/p&gt;</code></pre><p>给文本添加下划线</p>
 <pre><code>&lt;u&gt;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/u&gt;</code></pre><p>博客文章截断</p>
-<pre><code>&lt;!--more--&gt;</code></pre><h3 id="代码框"><a href="#代码框" class="headerlink" title="代码框"></a>代码框</h3><p>单行代码：代码之间分别用一个反引号包起来</p>
+<pre><code>&lt;!--more--&gt;</code></pre><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><p>单行代码：代码之间分别用一个反引号包起来</p>
 <pre><code>`hello world`</code></pre><p>多行代码：代码之间分别用三个反引号包起来，且两边的反引号单独占一行</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">```此处可以写注释</span><br><span class="line">hello world</span><br><span class="line">hello world</span><br><span class="line">```此处可以写注释</span><br></pre></td></tr></table></figure>
 
@@ -177,6 +177,9 @@ ____</code></pre><p>效果</p>
 <li>列表2</li>
 <li>列表3</li>
 </ol>
+<h3 id="emoji表情"><a href="#emoji表情" class="headerlink" title="emoji表情"></a>emoji表情</h3><p>Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情</p>
+<p>比如输入<code>:smile:</code>，可以显示 :smile:</p>
+<p>更多表情请点击这个<a href="https://emoji.muan.co/" target="_blank" rel="noopener">表情库</a></p>
 ]]></content>
       <categories>
         <category>Markdown</category>
@@ -891,8 +894,8 @@ ____</code></pre><p>效果</p>
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>next</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -1033,8 +1036,8 @@ ____</code></pre><p>效果</p>
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>next</tag>
+        <tag>hexo</tag>
         <tag>linux</tag>
       </tags>
   </entry>

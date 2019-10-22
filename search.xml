@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>人大教授向松祚：关于当前经济形势的几点感想</title>
+    <url>/posts/1867d1ec.html</url>
+    <content><![CDATA[<p>文 | 向松祚</p>
+<p>注：向松祚，经济学家，中国人民大学财政金融学院教授，国际货币研究所理事兼副所长。本文已在微博和微信被河蟹，下面是原文复制一字未改，具体数据读者自己核实。</p>
+<p>按照官方公布的数据，三季度GDP增速下滑到6%，四季度恐怕要跌破6%。明年肯定进入5%时代。如果看企业利润，财政收入等其他指标，GDP增速似乎加不起来，显然高估了。财政收入和企业利润多数地区都是负增长。全国税收收入前三季度也是负增长。GDP怎么可能增长6%?到地方调研座谈，有地方政府官员坦诚他们地区是负增长。</p>
+<a id="more"></a>
+<p>现在还说稳中有进，稳中向好。似乎与事实不符啊。</p>
+<p>即使按照官方数据，今年五月到九月全国财政收入一直负增长，企业利润增速大幅下降和负增长，居民收入也没有快速增长，个税收入前三季度下降近30%，这三项加起来就是GDP。三项都是低速增长或负增长，加起来的GDP怎么还增长6%?</p>
+<p>如果是减税导致财政收下降，GDP依然维持增长6%。那么，要么企业利润较快增长，要么老百姓收入较快增长，但这二者都没有出现。说明GDP增速没有那么快。</p>
+<p>看来应该承认经济面临异常严峻的现实，真正面对严峻巨大问题，下决心改革啊。</p>
+<p>为什么经济下行压力持续加大?</p>
+<p>愚以为去年各种噪音造成民营企业家信心严重受挫，至今也没有恢复，企业家信心不足是经济加速下行的关键原因，尤其是制造业投资急剧下降，如何恢复和增强民营企业信心？没有像邓小平1992年南巡那样的重大改革举措看来是难了。有报道说某省民营企业家移民者高达70%，可能夸大其词，但是民营企业家普遍缺乏安全感，没有长期投资打算，是不争的事实。如何让民营企业家安心，顺心，放心，愿意长期投资，不想移民，不想转移资产?这个必须通过解放思想，从法治制度上真正妥善保障私有产权，保重民营企业家各项权利才能实现。</p>
+<p>另外一项重大改革就是国有企业，这个大家都知道。今天国有企业有真正的改革吗？除了一再强调加强党的领导之外，还有哪些真正能够激发企业家活力的改革?</p>
+<p>事实上存在的国进民退不容否认，事实上存在的对民营企业的各种歧视也不容否认。还有国有企业那么高负债如何解决？让肉烂在锅里，老百姓一起负担吗？为什么不出售国有企业，出售国有资产，降低负债率?</p>
+<p>此外还有政府和国家治理方面需要改的地方太多了。现在各种检查和学习的形式主义恐怕占去很多官员一半时间吧?基层干部更是苦不堪言。到处是安检，到处是非生产性劳动。都要财政支出啊，今年三季度财政收入增长只有3.3%，支出增长达到9.6%，这能持续吗？一方面经济活力严重不足，另一方面非生产性财政支出快速增长，怎么可能持续?</p>
+]]></content>
+      <categories>
+        <category>思维提升</category>
+      </categories>
+      <tags>
+        <tag>经济</tag>
+        <tag>GDP</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown即md文件的基本编写语法</title>
     <url>/posts/3604cee3.html</url>
-    <content><![CDATA[<p>由于博客都是Markdown写的，所以这里记下 .md 简单的标记语法。下面就是一些常用编写格式</p>
+    <content><![CDATA[<p>由于博客都是Markdown写的，所以这里记下 .md 简单的标记语法，下面就是一些常用编写格式。</p>
 <h3 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h3><h4 id="显示形式"><a href="#显示形式" class="headerlink" title="显示形式"></a>显示形式</h4><pre><code>**这是加粗的文字**
 
 *这是倾斜的文字*
@@ -16,50 +41,50 @@
 <p><em>这是倾斜的文字</em></p>
 <p><strong><em>这是斜体加粗的文字</em></strong></p>
 <p><del>这是加删除线的文字</del></p>
-<h4 id="字体类型"><a href="#字体类型" class="headerlink" title="字体类型"></a>字体类型</h4><pre><code>&lt;font face=&quot;微软雅黑&quot;&gt;无二自留地&lt;/font&gt;</code></pre><p>效果</p>
+<h4 id="字体类型"><a href="#字体类型" class="headerlink" title="字体类型"></a>字体类型</h4><pre><code>&lt;font face=&quot;微软雅黑&quot;&gt;无二自留地&lt;/font&gt;</code></pre><p>效果：</p>
 <p><font face="微软雅黑">无二自留地</font></p>
-<h4 id="字体大小"><a href="#字体大小" class="headerlink" title="字体大小"></a>字体大小</h4><pre><code>&lt;font face=&quot;微软雅黑&quot; size=7&gt;无二自留地&lt;/font&gt; //从 1 到 7 的数字,浏览器默认值是 3</code></pre><p>效果</p>
+<h4 id="字体大小"><a href="#字体大小" class="headerlink" title="字体大小"></a>字体大小</h4><pre><code>&lt;font face=&quot;微软雅黑&quot; size=7&gt;无二自留地&lt;/font&gt; //从 1 到 7 的数字,浏览器默认值是 3</code></pre><p>效果：</p>
 <p><font face="微软雅黑" size="5">无二自留地</font></p>
-<h4 id="字体颜色"><a href="#字体颜色" class="headerlink" title="字体颜色"></a>字体颜色</h4><pre><code>&lt;font face=&quot;微软雅黑&quot; color=#FF0000 size=gray&gt;无二自留地&lt;/font&gt;</code></pre><p>效果</p>
+<h4 id="字体颜色"><a href="#字体颜色" class="headerlink" title="字体颜色"></a>字体颜色</h4><pre><code>&lt;font face=&quot;微软雅黑&quot; color=#FF0000 size=gray&gt;无二自留地&lt;/font&gt;</code></pre><p>效果：</p>
 <p><font face="微软雅黑" color="#FF0000" size="gray">无二自留地</font></p>
-<h4 id="文本居中"><a href="#文本居中" class="headerlink" title="文本居中"></a>文本居中</h4><pre><code>&lt;center&gt;&lt;font face=&quot;微软雅黑&quot; color=gray size=gray&gt;无二自留地&lt;/font&gt;&lt;/center&gt;</code></pre><p>效果</p>
+<h4 id="文本居中"><a href="#文本居中" class="headerlink" title="文本居中"></a>文本居中</h4><pre><code>&lt;center&gt;&lt;font face=&quot;微软雅黑&quot; color=gray size=gray&gt;无二自留地&lt;/font&gt;&lt;/center&gt;</code></pre><p>效果：</p>
 <center><font face="微软雅黑" color="gray" size="gray">无二自留地</font></center>
 
 
 <h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><p>图片分行内式和参数式</p>
 <pre><code>![行内式图片](图片链接或路径)
 
-[参数式图片]: 图片链接或路径 //这里是![参数式图片]</code></pre><p>效果</p>
+[参数式图片]: 图片链接或路径 //这里是![参数式图片]</code></pre><p>效果：</p>
 <p>这里是参数式图片<img src="/posts/3604cee3/1.jpg" alt="无二自留地"></p>
 <p>图片居中且控制尺寸宽高</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;center class=&quot;half&quot;&gt;</span><br><span class="line">    &lt;img src=&quot;图片链接或路径&quot; width=&quot;宽&quot; height=&quot;高&quot;/&gt;</span><br><span class="line">&lt;/center&gt;</span><br></pre></td></tr></table></figure>
 
-<p>效果</p>
+<p>效果：</p>
 <center class="half">
     <img src="/posts/3604cee3/1.jpg" width="200" height="200">
 </center>
 
 <h3 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h3><p>链接也分行内式和参数式</p>
 <pre><code>行内式
-[无二自留地](https://www.yeahwu.com/)</code></pre><p>效果</p>
+[无二自留地](https://www.yeahwu.com/)</code></pre><p>效果：</p>
 <p><a href="https://www.yeahwu.com/">无二自留地</a></p>
 <pre><code>参数式
 [主页]: https://www.yeahwu.com/ &quot;主页&quot;
 [电子书目录]: https://www.yeahwu.com/books/ &quot;电子书&quot;
-这里是[主页]，这里是[电子书目录]</code></pre><p>效果</p>
+这里是[主页]，这里是[电子书目录]</code></pre><p>效果：</p>
 <p>这里是<a href="https://www.yeahwu.com/" title="主页">主页</a>，这里是<a href="https://www.yeahwu.com/books/" title="电子书">电子书目录</a></p>
 <h3 id="分段和空格"><a href="#分段和空格" class="headerlink" title="分段和空格"></a>分段和空格</h3><h4 id="分段"><a href="#分段" class="headerlink" title="分段"></a>分段</h4><p>分段两种方法，空行或者 <code>&lt;p&gt;文本&lt;/p&gt;</code> 例：</p>
 <pre><code>&lt;p&gt;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/p&gt;</code></pre><h4 id="空格"><a href="#空格" class="headerlink" title="空格"></a>空格</h4><p>文章开头空格两种方法，输入法全角敲两下 space 键，或者文章前输入<code>&amp;emsp;&amp;emsp;</code> 例：</p>
-<pre><code>&lt;p&gt;&amp;emsp;&amp;emsp;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/p&gt;</code></pre><h4 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h4><p>给文本添加下划线</p>
+<pre><code>&lt;p&gt;&amp;emsp;&amp;emsp;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/p&gt;</code></pre><h4 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h4><p>给文本添加下划线，例：</p>
 <pre><code>&lt;u&gt;“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”&lt;/u&gt;</code></pre><h4 id="文章截断"><a href="#文章截断" class="headerlink" title="文章截断"></a>文章截断</h4><p>博客文章截断</p>
-<pre><code>&lt;!--more--&gt;</code></pre><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><p>单行代码：代码之间分别用一个反引号包起来</p>
-<pre><code>`hello world`</code></pre><p>多行代码：代码之间分别用三个反引号包起来，且两边的反引号单独占一行</p>
+<pre><code>&lt;!--more--&gt;</code></pre><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><p>单行代码：代码之间分别用一个反引号包起来。</p>
+<pre><code>`hello world`</code></pre><p>多行代码：代码之间分别用三个反引号包起来，且两边的反引号单独占一行。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">```此处可以写注释</span><br><span class="line">hello world</span><br><span class="line">hello world</span><br><span class="line">```此处可以写注释</span><br></pre></td></tr></table></figure>
 
 <h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><pre><code>* 假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。
     &gt; 这话是村上春树说的
 * 前方高能
-    &gt; 注意：点开这个网站将有奇妙的事情发生 www.xvideos.com </code></pre><p>效果</p>
+    &gt; 注意：点开这个网站将有奇妙的事情发生 www.xvideos.com </code></pre><p>效果：</p>
 <ul>
 <li>假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。<blockquote>
 <p>这话是村上春树说的</p>
@@ -77,7 +102,7 @@
 &gt;&gt;&gt;&gt; 四级引用
 &gt;&gt;&gt;&gt;&gt; 五级引用
 &gt;&gt;&gt;&gt;&gt;&gt; 六级引用
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 七级引用</code></pre><p>效果</p>
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 七级引用</code></pre><p>效果：</p>
 <blockquote>
 <p>一级引用</p>
 <blockquote>
@@ -99,10 +124,10 @@
 </blockquote>
 </blockquote>
 </blockquote>
-<h3 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h3><p>分割线可以由* - _（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以</p>
+<h3 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h3><p>分割线可以由* - _（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以。</p>
 <pre><code>***
 ---
-____</code></pre><p>效果</p>
+____</code></pre><p>效果：</p>
 <hr>
 <hr>
 <hr>
@@ -115,7 +140,7 @@ ____</code></pre><p>效果</p>
 - 有一个就行，为了对齐，多加了几个
 文字默认居左
 -两边加：表示文字居中
--右边加：表示文字居右</code></pre><p>效果</p>
+-右边加：表示文字居右</code></pre><p>效果：</p>
 <table>
 <thead>
 <tr>
@@ -145,7 +170,7 @@ ____</code></pre><p>效果</p>
 - 3
 + 1
 + 2
-+ 3</code></pre><p>效果</p>
++ 3</code></pre><p>效果：</p>
 <ul>
 <li>1</li>
 <li>2</li>
@@ -166,22 +191,22 @@ ____</code></pre><p>效果</p>
 <pre><code>有序列表
 3. 列表1
 8. 列表2
-1. 列表3</code></pre><p>效果</p>
+1. 列表3</code></pre><p>效果：</p>
 <ol start="3">
 <li>列表1</li>
 <li>列表2</li>
 <li>列表3</li>
 </ol>
-<h3 id="emoji表情"><a href="#emoji表情" class="headerlink" title="emoji表情"></a>emoji表情</h3><p>Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情</p>
+<h3 id="emoji表情"><a href="#emoji表情" class="headerlink" title="emoji表情"></a>emoji表情</h3><p>Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。</p>
 <p>比如输入<code>:smile:</code>，可以显示 :smile:</p>
-<p>更多表情请点击这个<a href="https://emoji.muan.co/" target="_blank" rel="noopener">表情库</a></p>
+<p>更多表情请点击这个<a href="https://emoji.muan.co/" target="_blank" rel="noopener">表情库</a>。</p>
 ]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>md</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -976,8 +1001,8 @@ ____</code></pre><p>效果</p>
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>gulp</tag>
         <tag>hexo</tag>
+        <tag>gulp</tag>
       </tags>
   </entry>
   <entry>
@@ -1032,8 +1057,8 @@ ____</code></pre><p>效果</p>
       </categories>
       <tags>
         <tag>hexo</tag>
-        <tag>next</tag>
         <tag>linux</tag>
+        <tag>next</tag>
       </tags>
   </entry>
 </search>

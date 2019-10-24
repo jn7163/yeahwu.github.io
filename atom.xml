@@ -64,9 +64,9 @@
       <category term="Markdown" scheme="https://www.yeahwu.com/categories/Markdown/"/>
     
     
-      <category term="md" scheme="https://www.yeahwu.com/tags/md/"/>
-    
       <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
+    
+      <category term="md" scheme="https://www.yeahwu.com/tags/md/"/>
     
   </entry>
   
@@ -403,9 +403,9 @@
       <category term="hexo" scheme="https://www.yeahwu.com/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
-    
       <category term="gulp" scheme="https://www.yeahwu.com/tags/gulp/"/>
+    
+      <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
     
   </entry>
   
@@ -433,9 +433,9 @@
     
       <category term="hexo" scheme="https://www.yeahwu.com/tags/hexo/"/>
     
-      <category term="linux" scheme="https://www.yeahwu.com/tags/linux/"/>
-    
       <category term="next" scheme="https://www.yeahwu.com/tags/next/"/>
+    
+      <category term="linux" scheme="https://www.yeahwu.com/tags/linux/"/>
     
   </entry>
   

@@ -65,7 +65,7 @@
 [参数式图片]: 图片链接或路径 //这里是![参数式图片]</code></pre><p>效果：</p>
 <p>这里是参数式图片<img src="/posts/3604cee3/1.jpg" alt="无二自留地"></p>
 <p>图片居中、宽高和内嵌链接</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;center class=&quot;half&quot;&gt;</span><br><span class="line">    &lt;a href=&quot;https://www.yeahwu.com/&quot;&gt; //内嵌链接</span><br><span class="line">    &lt;img src=&quot;图片链接或路径&quot; width=&quot;宽&quot; height=&quot;高&quot;/&gt;</span><br><span class="line">&lt;/center&gt;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;center class=&quot;half&quot;&gt;</span><br><span class="line">    &lt;a href=&quot;https://www.yeahwu.com/&quot;&gt; //内嵌链接</span><br><span class="line">    &lt;img src=&quot;图片链接或路径&quot; width=&quot;宽&quot; height=&quot;高&quot;/&gt;</span><br><span class="line">&lt;/center&gt;&lt;/a&gt;</span><br></pre></td></tr></table></figure>
 
 <p>效果：</p>
 <center class="half">
@@ -82,13 +82,13 @@
 [电子书目录]: https://www.yeahwu.com/books/ &quot;电子书&quot;
 这里是[主页]，这里是[电子书目录]</code></pre><p>效果：</p>
 <p>这里是<a href="https://www.yeahwu.com/" title="主页">主页</a>，这里是<a href="https://www.yeahwu.com/books/" title="电子书">电子书目录</a></p>
-<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><pre><code>* 假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。
-    &gt; 这话是村上春树说的
+<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><pre><code>* 买面包只能吃一天，买把枪能吃一辈子……
+    &gt; 这话是索马里海盗说的
 * 前方高能
     &gt; 注意：点开这个网站将有奇妙的事情发生 www.xvideos.com </code></pre><p>效果：</p>
 <ul>
-<li>假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。<blockquote>
-<p>这话是村上春树说的</p>
+<li>买面包只能吃一天，买把枪能吃一辈子……<blockquote>
+<p>这话是索马里海盗说的</p>
 </blockquote>
 </li>
 <li>前方高能<blockquote>

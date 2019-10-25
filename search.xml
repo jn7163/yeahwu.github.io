@@ -213,7 +213,7 @@ ___</code></pre><p>效果：</p>
   <entry>
     <title>村上春树演讲：高墙与鸡蛋</title>
     <url>/posts/805d27fd.html</url>
-    <content><![CDATA[<p><img src="/posts/805d27fd/3.jpg" alt="村上的一幅画"><br><u><p>“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”</p></u></p>
+    <content><![CDATA[<p><u><p>“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”</p></u></p>
 <p>我作为一个小说家，换句话说，作为以巧妙说谎为职业的人来到这里、来到耶路撒冷市。</p>
 <p>当然，说谎的不都是小说家。诸位知道，政治家屡屡说谎，外交官和军人说谎，二手车推销员和肉铺和建筑业者也说谎。但小说家说谎和他们说谎的不同之处在于：小说家说谎不受道义上的谴责。莫如说谎说得越大越高明，小说家越能得到人们的赞赏和好评。为什么呢？</p>
 <a id="more"></a>
@@ -371,8 +371,7 @@ ___</code></pre><p>效果：</p>
   <entry>
     <title>警惕狭隘民族主义的蛊惑宣传</title>
     <url>/posts/789c37f8.html</url>
-    <content><![CDATA[<p><img src="/posts/789c37f8/2.jpg" alt="红宝书"></p>
-<p>文 | 王小波</p>
+    <content><![CDATA[<p>文 | 王小波</p>
 <p>　　罗素曾说，人活在世上，主要是在做两件事：一、改变物体的位置和形状，二、支使别人这样干。这种概括的魅力在于简单，但未必全面。举例来说，一位象棋国手知道自己的毕生事业只是改变棋子的位置，肯定会感到忧伤；而知识分子听人说自己干的事不过是用墨水和油墨来污损纸张，那就不仅是沮丧，他还会对说这话的人表示反感。我靠写作为生，对这种概括就不大满意：我的文章有人看了喜欢，有人看了愤怒，不能说是没有意义的……但话又说回来，喜欢也罢，愤怒也罢，终归是情绪，是虚无缥缈的东西。我还可以说，写作的人是文化的缔造者，文化的影响直至千秋万代——可惜现在我说不出这种影响是怎样的。好在有种东西见效很快，它的力量又没有人敢于怀疑：知识分子还可以做蛊惑宣传，这可是种厉害东西……</p>
 <a id="more"></a>
 <p>　　在第二次世界大战里，德国人干了很多坏事，弄得他们自己都不好意思了。有个德国将军蒂佩尔斯基这样为自己的民族辩解：德国人民是无罪的，他们受到希特勒、戈培尔之流蛊惑宣传的左右，自己都不知道自己在干什么。还有人给希特勒所著《我的奋斗》做了一番统计，发现其中每个字都害死了若干人。德国人在二战中的一切劣迹都要归罪于希特勒在坐监狱时写的那本破书——我有点怀疑这样说是不是很客观，但我毫不怀疑这种说法里含有一些合理的成分。总而言之，人做一件事有三种办法，就以希特勒想干的事为例，首先，他可以自己动手去干，这样他就是个普通的纳粹士兵，为害十分有限；其次，他可以支使别人去干，这样他只是个纳粹军官；最后，他可以做蛊惑宣传，把德国人弄得疯不疯、傻不傻的，一齐去干坏事，这样他就是个纳粹思想家了。</p>
@@ -1002,8 +1001,8 @@ ___</code></pre><p>效果：</p>
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
         <tag>gulp</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -1023,15 +1022,15 @@ ___</code></pre><p>效果：</p>
 <p><code>cd blog</code><br><code>$ hexo g</code></p>
 <p>4：启动本地服务，进行文章预览调试</p>
 <p><code>$ hexo server</code></p>
-<p>浏览器输入 <u><a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a></u></p>
+<p>浏览器输入 <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a></p>
 <h4 id="配置GitHub"><a href="#配置GitHub" class="headerlink" title="配置GitHub"></a>配置GitHub</h4><p>1：建立Repository</p>
-<p>2：建立与你用户名对应的仓库，仓库名必须为 <u>yourname.github.io</u> ，固定写法</p>
+<p>2：建立与你用户名对应的仓库，仓库名必须为 yourname.github.io ，固定写法</p>
 <p>3：建立关联 <code>vi /users/blog/_config.yml</code></p>
 <p>翻到最下面，改成：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy: </span><br><span class="line">    type: git </span><br><span class="line">    repository: https://github.com/yourname/yourname.github.io.git </span><br><span class="line">    #repository: git@github.com:yourname/yourname.github.io.git    //此是针对ssh密钥用户</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure>
 
 <p>4：执行命令：<code>$ npm install --save hexo-deployer-git</code></p>
-<p>5：然后，执行配置命令：<code>$ hexo deploy</code><br>在浏览器中输入 <u><a href="http://yourname.github.io/" target="_blank" rel="noopener">http://yourname.github.io/</a></u></p>
+<p>5：然后，执行配置命令：<code>$ hexo deploy</code><br>在浏览器中输入 <a href="http://yourname.github.io/" target="_blank" rel="noopener">http://yourname.github.io/</a></p>
 <p>6：每次部署命令:</p>
 <p><code>cd blog</code></p>
 <p><code>$ hexo g -d</code></p>
@@ -1039,7 +1038,7 @@ ___</code></pre><p>效果：</p>
 <p>2： 在 source 下创建一个名为 CNAME 的文件，内容为你要使用的域名，如本博客为 <a href="http://www.yeahwu.com">www.yeahwu.com</a></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd blog/source</span><br><span class="line">echo &quot;www.yeahwu.com&quot; &gt; CNAME</span><br></pre></td></tr></table></figure>
 
-<p>3: 编辑 _config.yml，使 url 的内容为你的主页地址，如本博客为 <u><a href="https://www.yeahwu.com">https://www.yeahwu.com</a></u></p>
+<p>3: 编辑 _config.yml，使 url 的内容为你的主页地址，如本博客为 <a href="https://www.yeahwu.com">https://www.yeahwu.com</a></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">vi /users/blog/_config.yml</span><br><span class="line"></span><br><span class="line">url: https://www.yeahwu.com</span><br></pre></td></tr></table></figure>
 
 <p>4: 部署到 git 后，进入 github，打开网站所在项目，点击 Settings/GitHub Pages ,勾选 Enforce HTTPS</p>
@@ -1049,7 +1048,7 @@ ___</code></pre><p>效果：</p>
 <p><code>hexo generate</code> 生成静态页面</p>
 <p><code>hexo server</code> 开启预览访问端口</p>
 <p><code>hexo deploy</code> 将.deploy目录部署到GitHub</p>
-<p>博客文章在 <u>/blog/source/_posts</u> 文章支持Markdown语法。如果想修改头像可以直接在主题的 <u>_config.yml</u> 文件里面修改，友情链接，之类的都在这里。</p>
+<p>博客文章在 /blog/source/_posts 文章支持Markdown语法。如果想修改头像可以直接在主题的 _config.yml 文件里面修改，友情链接，之类的都在这里。</p>
 <p>上面的是Linux搭建方法，相信大家用Windows的比较多。推荐朋友的<a href="https://blog.cat73.org/20160608/2016060801.github-hexo/" target="_blank" rel="noopener">Windows搭建教程</a></p>
 <p>– END –</p>
 ]]></content>

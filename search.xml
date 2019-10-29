@@ -5,8 +5,8 @@
     <url>/posts/1867d1ec.html</url>
     <content><![CDATA[<p>文 | 向松祚</p>
 <p>注：向松祚，经济学家，中国人民大学财政金融学院教授，国际货币研究所理事兼副所长。本文已在微博和微信被河蟹，下面是原文复制一字未改，具体数据读者自己核实。</p>
-<p>按照官方公布的数据，三季度GDP增速下滑到6%，四季度恐怕要跌破6%。明年肯定进入5%时代。如果看企业利润，财政收入等其他指标，GDP增速似乎加不起来，显然高估了。财政收入和企业利润多数地区都是负增长。全国税收收入前三季度也是负增长。GDP怎么可能增长6%?到地方调研座谈，有地方政府官员坦诚他们地区是负增长。</p>
 <a id="more"></a>
+<p>按照官方公布的数据，三季度GDP增速下滑到6%，四季度恐怕要跌破6%。明年肯定进入5%时代。如果看企业利润，财政收入等其他指标，GDP增速似乎加不起来，显然高估了。财政收入和企业利润多数地区都是负增长。全国税收收入前三季度也是负增长。GDP怎么可能增长6%?到地方调研座谈，有地方政府官员坦诚他们地区是负增长。</p>
 <p>现在还说稳中有进，稳中向好。似乎与事实不符啊。</p>
 <p>即使按照官方数据，今年五月到九月全国财政收入一直负增长，企业利润增速大幅下降和负增长，居民收入也没有快速增长，个税收入前三季度下降近30%，这三项加起来就是GDP。三项都是低速增长或负增长，加起来的GDP怎么还增长6%?</p>
 <p>如果是减税导致财政收下降，GDP依然维持增长6%。那么，要么企业利润较快增长，要么老百姓收入较快增长，但这二者都没有出现。说明GDP增速没有那么快。</p>
@@ -29,10 +29,9 @@
     <title>Markdown即md文件的基本编写语法</title>
     <url>/posts/3604cee3.html</url>
     <content><![CDATA[<p>由于博客都是Markdown写的，所以这里记下 .md 简单的标记语法，下面就是一些常用编写格式。</p>
-<h3 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h3><h4 id="字体类型"><a href="#字体类型" class="headerlink" title="字体类型"></a>字体类型</h4><pre><code>&lt;font face=&quot;微软雅黑&quot;&gt;无二自留地&lt;/font&gt;</code></pre><p>效果：</p>
+<h3 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h3><h4 id="字体类型"><a href="#字体类型" class="headerlink" title="字体类型"></a>字体类型</h4><pre><code>&lt;font face=&quot;微软雅黑&quot;&gt;无二自留地&lt;/font&gt;</code></pre><a id="more"></a>
+<p>效果：</p>
 <p><font face="微软雅黑">无二自留地</font></p>
-<a id="more"></a>
-
 <h4 id="字体大小"><a href="#字体大小" class="headerlink" title="字体大小"></a>字体大小</h4><pre><code>&lt;font face=&quot;微软雅黑&quot; size=5&gt;无二自留地&lt;/font&gt; //从 1 到 7 的数字,浏览器默认值是 3</code></pre><p>效果：</p>
 <p><font face="微软雅黑" size="5">无二自留地</font></p>
 <h4 id="字体颜色"><a href="#字体颜色" class="headerlink" title="字体颜色"></a>字体颜色</h4><pre><code>&lt;font face=&quot;微软雅黑&quot; color=#FF0000 size=gray&gt;无二自留地&lt;/font&gt;</code></pre><p>效果：</p>
@@ -215,8 +214,8 @@ ___</code></pre><p>效果：</p>
     <url>/posts/805d27fd.html</url>
     <content><![CDATA[<p><u><p>“假如这里有坚固的高墙和撞墙破碎的鸡蛋，我总是站在鸡蛋一边。—— 村上春树”</p></u></p>
 <p>我作为一个小说家，换句话说，作为以巧妙说谎为职业的人来到这里、来到耶路撒冷市。</p>
-<p>当然，说谎的不都是小说家。诸位知道，政治家屡屡说谎，外交官和军人说谎，二手车推销员和肉铺和建筑业者也说谎。但小说家说谎和他们说谎的不同之处在于：小说家说谎不受道义上的谴责。莫如说谎说得越大越高明，小说家越能得到人们的赞赏和好评。为什么呢？</p>
 <a id="more"></a>
+<p>当然，说谎的不都是小说家。诸位知道，政治家屡屡说谎，外交官和军人说谎，二手车推销员和肉铺和建筑业者也说谎。但小说家说谎和他们说谎的不同之处在于：小说家说谎不受道义上的谴责。莫如说谎说得越大越高明，小说家越能得到人们的赞赏和好评。为什么呢？</p>
 <p>这是因为，小说家能够通过巧妙说谎、通过栩栩如生的虚构而将真相拽到另一场所投以另一光照。以其固有的形式捕捉真相并予以准确描述在许多情况下是不可能的。惟其如此，我们才要把真相引诱出来移去虚构地带，通过将其置换为虚构形式来抓住真相的尾巴。但为此必须首先在自己心底明确真相的所在，这是巧妙说谎所需要的重要资格。</p>
 <p>可是今天我不准备说谎，打算尽可能说实话。一年之中我也有几天不说谎，今天恰好是其中的一天。</p>
 <p>实话实说好了。关于此次来以色列接受耶路撒冷文学奖，不少人劝我最好拒绝。甚至警告说如果前来，将开展不买我的书的运动。无须说，理由在于加沙地区的激战。迄今为止，已不止一千人在被封锁的城区丧生，据联合国报告，大多数是儿童、老人等手无寸铁的平民。</p>
@@ -374,8 +373,9 @@ ___</code></pre><p>效果：</p>
     <title>警惕狭隘民族主义的蛊惑宣传</title>
     <url>/posts/789c37f8.html</url>
     <content><![CDATA[<p>文 | 王小波</p>
-<p>　　罗素曾说，人活在世上，主要是在做两件事：一、改变物体的位置和形状，二、支使别人这样干。这种概括的魅力在于简单，但未必全面。举例来说，一位象棋国手知道自己的毕生事业只是改变棋子的位置，肯定会感到忧伤；而知识分子听人说自己干的事不过是用墨水和油墨来污损纸张，那就不仅是沮丧，他还会对说这话的人表示反感。我靠写作为生，对这种概括就不大满意：我的文章有人看了喜欢，有人看了愤怒，不能说是没有意义的……但话又说回来，喜欢也罢，愤怒也罢，终归是情绪，是虚无缥缈的东西。我还可以说，写作的人是文化的缔造者，文化的影响直至千秋万代——可惜现在我说不出这种影响是怎样的。好在有种东西见效很快，它的力量又没有人敢于怀疑：知识分子还可以做蛊惑宣传，这可是种厉害东西……</p>
-<a id="more"></a>
+<p>　　罗素曾说，人活在世上，主要是在做两件事：一、改变物体的位置和形状，二、支使别人这样干。这种概括的魅力在于简单，但未必全面。</p>
+<a id="more"></a> 
+<p>　　举例来说，一位象棋国手知道自己的毕生事业只是改变棋子的位置，肯定会感到忧伤；而知识分子听人说自己干的事不过是用墨水和油墨来污损纸张，那就不仅是沮丧，他还会对说这话的人表示反感。我靠写作为生，对这种概括就不大满意：我的文章有人看了喜欢，有人看了愤怒，不能说是没有意义的……但话又说回来，喜欢也罢，愤怒也罢，终归是情绪，是虚无缥缈的东西。我还可以说，写作的人是文化的缔造者，文化的影响直至千秋万代——可惜现在我说不出这种影响是怎样的。好在有种东西见效很快，它的力量又没有人敢于怀疑：知识分子还可以做蛊惑宣传，这可是种厉害东西……</p>
 <p>　　在第二次世界大战里，德国人干了很多坏事，弄得他们自己都不好意思了。有个德国将军蒂佩尔斯基这样为自己的民族辩解：德国人民是无罪的，他们受到希特勒、戈培尔之流蛊惑宣传的左右，自己都不知道自己在干什么。还有人给希特勒所著《我的奋斗》做了一番统计，发现其中每个字都害死了若干人。德国人在二战中的一切劣迹都要归罪于希特勒在坐监狱时写的那本破书——我有点怀疑这样说是不是很客观，但我毫不怀疑这种说法里含有一些合理的成分。总而言之，人做一件事有三种办法，就以希特勒想干的事为例，首先，他可以自己动手去干，这样他就是个普通的纳粹士兵，为害十分有限；其次，他可以支使别人去干，这样他只是个纳粹军官；最后，他可以做蛊惑宣传，把德国人弄得疯不疯、傻不傻的，一齐去干坏事，这样他就是个纳粹思想家了。</p>
 <p>　　说来也怪，自苏格拉底以降，多少知识分子拿自己的正派学问教人，都没人听，偏偏纳粹的异端邪说有人信，这真叫邪了门。罗素、波普尔这样的大学问家对纳粹意识形态的一些成分发表过意见，精彩归精彩，还是说不清它力量何在。事有凑巧，我是在一种蛊惑宣传里长大的（我指的是张春桥、姚文元的蛊惑宣传），对它有点感性知识，也许我的意见能补大学问家的不足……这样的感性知识，读者也是有的。我说得对不对，大家可以评判。</p>
 <p>　　据我所知，蛊惑宣传不是真话——否则它就不叫做蛊惑。但它也不是蓄意编造的假话——编出来的东西是很容易识破的。这种宣传本身半疯不傻，做这种宣传的人则是一副借酒撒疯、假痴不癫的样子。肖斯塔科维奇在回忆录里说，旧俄国有种疯僧，被狂热的信念左右，信口雌黄，但是人见人怕，他说的话别人也不敢全然不信——就是这种人搞蛊惑宣传能够成功。半疯不傻的话，只有从借酒撒疯的人嘴里说出来才有人信。假如我说“宁要社会主义的草，不要资本主义的苗”，不仅没人信，老农民还要揍我；非得像江青女士那样，用更年期高亢的啸叫声说出来，或者像姚文元先生那样，带着怪诞的傻笑说出来，才会有人信。要搞蛊惑宣传，必须有种什么东西盖着脸（对醉汉来说，这种东西是酒），所以我说这种人是在借酒撒疯。顺便说一句，这种状态和青年知识分子意气风发的狷狂之态有点分不清楚。虽然夫子曾曰“不得中行而与之必也狂狷乎”，但我总觉得那种状态不宜提倡。</p>
@@ -396,8 +396,8 @@ ___</code></pre><p>效果：</p>
     <content><![CDATA[<p>文 | 编程随想</p>
 <p>政治常识扫盲：澄清“言论自由”的各种误区</p>
 <h3 id="言论自由的重要性"><a href="#言论自由的重要性" class="headerlink" title="言论自由的重要性"></a>言论自由的重要性</h3><p>　　为啥俺首先想到要普及“言论自由”的常识，因为言论自由非常重要性。以下是俺总结的重要性。</p>
-<h4 id="对“基本人权”而言"><a href="#对“基本人权”而言" class="headerlink" title="对“基本人权”而言"></a>对“基本人权”而言</h4><p>　　在“基本人权”里面，排在第二位的是“自由权”，而言论自由是“自由权”的重要组成部分。所以在基本人权里，“言论自由”是很重要的一块。（可能有同学会好奇：“基本人权”里排在第一位的是啥？是“生命权”。）<br>　　关于“基本人权”的更详细介绍，可以看维基百科的“这个词条”。这里就不再多罗嗦了。</p>
 <a id="more"></a>
+<h4 id="对“基本人权”而言"><a href="#对“基本人权”而言" class="headerlink" title="对“基本人权”而言"></a>对“基本人权”而言</h4><p>　　在“基本人权”里面，排在第二位的是“自由权”，而言论自由是“自由权”的重要组成部分。所以在基本人权里，“言论自由”是很重要的一块。（可能有同学会好奇：“基本人权”里排在第一位的是啥？是“生命权”。）<br>　　关于“基本人权”的更详细介绍，可以看维基百科的“这个词条”。这里就不再多罗嗦了。</p>
 <h4 id="对“民主制度”而言"><a href="#对“民主制度”而言" class="headerlink" title="对“民主制度”而言"></a>对“民主制度”而言</h4><p>　　言论自由对民主体制同样是非常重要的。“民主”的核心包括两个要点：其一是“公民对公共事务的参与”，其二是“公民对公权力的监督”。这两个要点都离不开“言论自由”。<br>　　有些国家虽然也搞了一人一票的直接选举，但这些国家没有很好地保障“言论自由”。那么就有可能蜕变成“名为民主，实为专制”。</p>
 <h4 id="对“互联网时代”而言"><a href="#对“互联网时代”而言" class="headerlink" title="对“互联网时代”而言"></a>对“互联网时代”而言</h4><p>　　21世纪也被称为互联网时代、信息时代。在日常生活中，基于网络的沟通越来越多，影响面也越来越大。所以俺觉得，非常有必要消除“对言论自由的误解”。</p>
 <h3 id="公共空间-VS-私人空间"><a href="#公共空间-VS-私人空间" class="headerlink" title="公共空间 VS 私人空间"></a>公共空间 VS 私人空间</h3><p>　　这是最被忽视的一个误区，连很多自由派的网友都不晓得【公共空间】和【私人空间】的差别。混淆这两者的后果就是——在不该运用“言论自由”的场合强调言论自由——这导致了“对言论自由的【误用】”。</p>
@@ -519,9 +519,9 @@ ___</code></pre><p>效果：</p>
     <url>/posts/2d01ac9.html</url>
     <content><![CDATA[<p>十一临近，号称国内唯一不受工信部监管的外网 GitHub 也间接性抽风，所以不得不未雨绸缪，给 Linux terminal 挂上代理，以防 GitHub 彻底挂了，下面是方法。</p>
 <h3 id="Linux终端挂上代理"><a href="#Linux终端挂上代理" class="headerlink" title="Linux终端挂上代理"></a>Linux终端挂上代理</h3><p>ProxyChains 是一个终端代理方案，使用比较简单，直接安装：</p>
-<p><code>$ apt install proxychains</code></p>
-<p>编辑 <u>/etc/proxychains.conf</u> 文件，vi 翻至最下面，把默认的 tor 的代理方式、端口换成你的代理端口，比如常用的 Shawdowsocks 代理：</p>
 <a id="more"></a>
+<p><code>$ apt install proxychains</code></p>
+<p>编辑 <code>/etc/proxychains.conf</code> 文件，vi 翻至最下面，把默认的 tor 的代理方式、端口换成你的代理端口，比如常用的 Shawdowsocks 代理：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ vi /etc/proxychains.conf</span><br><span class="line"></span><br><span class="line">翻到最下面把 tor 端口改成：</span><br><span class="line"> </span><br><span class="line">socks5    127.0.0.1    1080</span><br></pre></td></tr></table></figure>
 
 <p>使用</p>
@@ -681,8 +681,8 @@ ___</code></pre><p>效果：</p>
     <content><![CDATA[<p>记录 GitHub Pages 上301重定向踩过的坑。</p>
 <p>其实俺的要求很简单，yeahwu.com 能定向跳转到 <a href="http://www.yeahwu.com">www.yeahwu.com</a> .</p>
 <p>本来是 CNAME 解析到 github.io ,一切都是那么顺利，新的域名也能打开，解析速度俺也能接受，做个301重定向就完美了！</p>
-<p>想想，在 Freenom DNS 上做个 A 记录解决吧，于是 prefix 留空， GitHub IP 填上，确定。显示错误 username 不能留空，能理解，能理解，填上 @ 继续，还是显示错误，能理解，每个 DNS 网站的表达方式不同嘛。</p>
 <a id="more"></a>
+<p>想想，在 Freenom DNS 上做个 A 记录解决吧，于是 prefix 留空， GitHub IP 填上，确定。显示错误 username 不能留空，能理解，能理解，填上 @ 继续，还是显示错误，能理解，每个 DNS 网站的表达方式不同嘛。</p>
 <p>继续，填上 * 小星星一颗，错误。可能是俺的表达方式太害羞了，于是直白一点， 填上 NOPREFIX ，结果是接受了。兴冲冲地去打开 yeahwu.com 检验一下，打不开，也不能跳转。</p>
 <p>于是俺迷茫了！</p>
 <p>是不是 GitHub Pages 不能支持301跳转？</p>
@@ -710,8 +710,8 @@ ___</code></pre><p>效果：</p>
     <content><![CDATA[<p>文 | 编程随想</p>
 <h4 id="何为“幸存者偏见”？"><a href="#何为“幸存者偏见”？" class="headerlink" title="何为“幸存者偏见”？"></a>何为“幸存者偏见”？</h4><p>　　“幸存者偏见”，洋文写作“survivorship bias”或“survival bias”。这玩意儿属于“认知偏差”的一种。</p>
 <p>　　如果用一句通俗的话来概括“幸存者偏见”，就是【死人没法开口】。如果要说得更具体点，那就是：<br>当你在分析某个事物的时候，可能会面对诸多的证据（样本）。但是大多数人通常只注意到【显式】的样本和证据，而忽略了【隐式】的样本和证据。从而得出错误的认知、错误的结论。</p>
-<p>　　为了更形象一些，俺来说一下“幸存者偏见”的出处——古罗马的西赛罗（与凯撒同时代的知名政治家、文学家、演说家）讲过一个故事，大意如下：</p>
 <a id="more"></a>
+<p>　　为了更形象一些，俺来说一下“幸存者偏见”的出处——古罗马的西赛罗（与凯撒同时代的知名政治家、文学家、演说家）讲过一个故事，大意如下：</p>
 <p>有一群宗教信徒在某次沉船事故中幸存。幸存后捏，他们就找人作画（画面上是一群人在事故中祈祷），以此来宣扬说：因为他们作了虔诚的祷告，所以才在沉船事故中幸存。</p>
 <p>某信徒拿了这幅画给一个无神论者看。这个无神论者直接反问道：那些祈祷之后淹死的人，他们的画像在哪里？</p>
 <p>　　以上就是“幸存者偏见”的出处。那些“祈祷之后依然淹死的人”，他们已经死了，不可能再去告诉别人，他们的祈祷失灵了。</p>
@@ -853,10 +853,10 @@ ___</code></pre><p>效果：</p>
     <url>/posts/7109dccd.html</url>
     <content><![CDATA[<h3 id="添加博客置顶"><a href="#添加博客置顶" class="headerlink" title="添加博客置顶"></a>添加博客置顶</h3><h5 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h5><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm uninstall hexo-generator-index --save</span><br><span class="line">$ npm install hexo-generator-index-pin-top --save</span><br></pre></td></tr></table></figure>
 
+<a id="more"></a>
 <h5 id="添加置顶开关"><a href="#添加置顶开关" class="headerlink" title="添加置顶开关"></a>添加置顶开关</h5><p>找到 <u>/blog/scaffolds/post.md</u> 添加</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">top: false</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
-<a id="more"></a>
 <p>然后每次新建博客 <code>hexo new&quot;postname&quot;</code> 会显示页面</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: </span><br><span class="line">top: false</span><br><span class="line">date: </span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
@@ -899,10 +899,10 @@ ___</code></pre><p>效果：</p>
     <url>/posts/3a0aec94.html</url>
     <content><![CDATA[<h3 id="生成密钥"><a href="#生成密钥" class="headerlink" title="生成密钥"></a>生成密钥</h3><p>Git 服务器都会选择使用 SSH 公钥来进行授权。系统中的用户都会提供一个公钥用于授权，没有的话可以生成一个，生成公钥的过程在所有操作系统上都差不多。</p>
 <p>首先，你要确认一下本机是否已经有一个公钥。</p>
+<a id="more"></a>
 <p>SSH 公钥默认储存在账户的主目录下的 ~/.ssh 目录，进去看看：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ cd ~/.ssh &amp;&amp; ls</span><br><span class="line"></span><br><span class="line">id_rsa    id_rsa.pub    known_hosts</span><br></pre></td></tr></table></figure>
 
-<a id="more"></a>
 <p>看一下有没有id_rsa和id_rsa.pub，有 .pub 后缀的文件就是公钥，另一个文件则是密钥。</p>
 <p>假如没有这些文件，甚至连 .ssh 目录都没有，可以用 ssh-keygen 来创建。</p>
 <p><code>$ ssh-keygen -t rsa -C &quot;your_email@youremail.com&quot;</code></p>
@@ -947,8 +947,8 @@ ___</code></pre><p>效果：</p>
 <h4 id="全局和目录安装gulp"><a href="#全局和目录安装gulp" class="headerlink" title="全局和目录安装gulp"></a>全局和目录安装gulp</h4><p><code>$ npm install gulp -g</code>  //全局安装</p>
 <p><code>$ npm install gulp --save</code>  //站点目录下安装</p>
 <p><code>$ gulp -v</code>  //查看版本</p>
-<h4 id="安装gulp插件"><a href="#安装gulp插件" class="headerlink" title="安装gulp插件"></a>安装gulp插件</h4><a id="more"></a>
-<p>在站点根目录下安装</p>
+<a id="more"></a>
+<h4 id="安装gulp插件"><a href="#安装gulp插件" class="headerlink" title="安装gulp插件"></a>安装gulp插件</h4><p>在站点根目录下安装</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ npm install gulp-minify-css --save</span><br><span class="line">$ npm install gulp-uglify --save</span><br><span class="line">$ npm install gulp-htmlmin --save</span><br><span class="line">$ npm install gulp-htmlclean --save</span><br><span class="line">$ npm install gulp-imagemin --save</span><br></pre></td></tr></table></figure>
 
 <h4 id="创建gulpfile-js文件"><a href="#创建gulpfile-js文件" class="headerlink" title="创建gulpfile.js文件"></a>创建gulpfile.js文件</h4><p>在 Hexo 站点下新建gulpfile.js文件，文件内容如下：</p>
@@ -984,12 +984,11 @@ ___</code></pre><p>效果：</p>
   <entry>
     <title>Linux下搭建Hexo个人博客</title>
     <url>/posts/a73fc4c5.html</url>
-    <content><![CDATA[<p>本博基于 <u>ubuntu18.04+git v2.17.1+NodeJS v8.10.0+hexo-cli: 2.0.0</u> 不同平台和版本实际操作可能略不同。</p>
+    <content><![CDATA[<p>本博基于 <code>ubuntu18.04+git_v2.17.1+NodeJS_v8.10.0+hexo_v3.9.0</code> 不同平台和版本实际操作可能略不同。</p>
 <h4 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h4><h5 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h5><p><code>$ apt install git</code></p>
+<a id="more"></a>
 <h5 id="安装npm"><a href="#安装npm" class="headerlink" title="安装npm"></a>安装npm</h5><p><code>$ apt install npm</code></p>
 <h5 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h5><p><code>$ apt install node.js</code></p>
-<a id="more"></a>
-
 <h5 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h5><p>1：安装hexo</p>
 <p><code>$ npm install -g hexo</code></p>
 <p>2：执行init命令初始化hexo,生成blog文件，就是你的博客根目录，所有的操作都在里面进行。</p>
